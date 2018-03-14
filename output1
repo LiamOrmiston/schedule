@@ -1,0 +1,7 @@
+  Core  0: 000---
+  Core  1: -1111-
+
+  Queue: 
+
+All cores are idle and at least one job remains unscheduled.
+Active jobs are: 1, 2, 3, 4, 5
